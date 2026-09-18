@@ -116,7 +116,7 @@ export const projects = {
       outcomes: [
         "Cut manual context re-entry by ~80% per session via auto-extraction.",
       ],
-      link: "https://github.com/AayushM0",
+      link: "https://github.com/AayushM0/LACE",
       category: "AI Memory Engine",
       year: "2026",
       image: "[PLACEHOLDER_IMAGE_PATH_1]",
@@ -130,7 +130,7 @@ export const projects = {
       outcomes: [
         "On-chain audit trail, SLA escalation, and AI image recognition.",
       ],
-      link: "https://github.com/AayushM0/GramConnect-TeamDaps-Sathack",
+      link: "https://github.com/AayushM0/GramConnect",
       category: "Web3 / Civic Tech",
       year: "2025",
       image: "[PLACEHOLDER_IMAGE_PATH_2]",
@@ -156,7 +156,7 @@ export const projects = {
       tag: "TOOLING",
       stack: ["Node.js", "Commander.js", "CLI"],
       outcomes: ["Cut deployment setup time by ~70%."],
-      link: "#",
+      link: "https://github.com/AayushM0/DeployIt-CLI",
       category: "CLI Tooling",
       year: "2025",
       image: "[PLACEHOLDER_IMAGE_PATH_4]",
